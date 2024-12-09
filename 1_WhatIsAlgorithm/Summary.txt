@@ -1,0 +1,11 @@
+Algorithm, it is designed to yield results for any valid input according to precisely defined instructions.
+Input -> Computing Device(Algorithm) -> Output
+So, what should we do first?
+We need to understand the requirements, or we can say we need to understand the demand.
+Why do we need the Algorithm, the reason is we need to solve some problem, why should we solve this problem, because we have demand.
+Once the problem is clearly stated, we can start to develop.
+
+The development phase consists of two phases:
+    1. The design phase: You need to choose the fit algorithm. So, you should study, because you can compare the pros and cons of different algorithm, if you know more algorithm.
+    2. The coding phase: Speech is cheap, show me your code.
+
